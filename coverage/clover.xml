@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1762862130410" clover="3.2.0">
+  <project timestamp="1762862130411" name="All files">
+    <metrics statements="57" coveredstatements="57" conditionals="33" coveredconditionals="31" methods="23" coveredmethods="23" elements="113" coveredelements="111" complexity="0" loc="57" ncloc="57" packages="3" files="6" classes="6"/>
+    <package name="components">
+      <metrics statements="48" coveredstatements="48" conditionals="32" coveredconditionals="30" methods="18" coveredmethods="18"/>
+      <file name="BugForm.jsx" path="/home/steve/Desktop/testing-and-debugging-ensuring-mern-app-reliability-IKamunya-web/client/src/components/BugForm.jsx">
+        <metrics statements="12" coveredstatements="12" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="16" count="5" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+      </file>
+      <file name="BugList.jsx" path="/home/steve/Desktop/testing-and-debugging-ensuring-mern-app-reliability-IKamunya-web/client/src/components/BugList.jsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+      </file>
+      <file name="Button.jsx" path="/home/steve/Desktop/testing-and-debugging-ensuring-mern-app-reliability-IKamunya-web/client/src/components/Button.jsx">
+        <metrics statements="16" coveredstatements="16" conditionals="18" coveredconditionals="16" methods="4" coveredmethods="4"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="14" type="cond" truecount="4" falsecount="0"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="12" count="12" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="14" type="cond" truecount="4" falsecount="0"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="24" count="12" type="stmt"/>
+        <line num="29" count="14" type="cond" truecount="2" falsecount="0"/>
+        <line num="33" count="14" type="stmt"/>
+        <line num="34" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="35" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="38" count="14" type="stmt"/>
+        <line num="45" count="2" type="stmt"/>
+      </file>
+      <file name="ErrorBoundary.jsx" path="/home/steve/Desktop/testing-and-debugging-ensuring-mern-app-reliability-IKamunya-web/client/src/components/ErrorBoundary.jsx">
+        <metrics statements="15" coveredstatements="15" conditionals="12" coveredconditionals="12" methods="6" coveredmethods="6"/>
+        <line num="10" count="15" type="stmt"/>
+        <line num="11" count="14" type="stmt"/>
+        <line num="21" count="16" type="stmt"/>
+        <line num="26" count="8" type="stmt"/>
+        <line num="27" count="8" type="stmt"/>
+        <line num="34" count="8" type="stmt"/>
+        <line num="35" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="40" count="14" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="49" count="42" type="cond" truecount="2" falsecount="0"/>
+        <line num="50" count="24" type="stmt"/>
+        <line num="95" count="18" type="stmt"/>
+        <line num="99" count="1" type="stmt"/>
+        <line num="105" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="hooks">
+      <metrics statements="4" coveredstatements="4" conditionals="1" coveredconditionals="1" methods="4" coveredmethods="4"/>
+      <file name="useToggle.js" path="/home/steve/Desktop/testing-and-debugging-ensuring-mern-app-reliability-IKamunya-web/client/src/hooks/useToggle.js">
+        <metrics statements="4" coveredstatements="4" conditionals="1" coveredconditionals="1" methods="4" coveredmethods="4"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="7" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="utils">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="formatDate.js" path="/home/steve/Desktop/testing-and-debugging-ensuring-mern-app-reliability-IKamunya-web/client/src/utils/formatDate.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
